@@ -1,4 +1,7 @@
-Changelog v5.3.0.1 (2026-06-14):
+Changelog v5.3.0.3 (2026-06-20):
+- Client: Used Gujal00 Fixes with disabling _can_fast function
+
+Changelog v5.3.0.2 (2026-06-14):
 - Client: Restored Goldenfreddy0703 Otaku mapping
 
 Changelog v5.3.0.1 (2026-06-14):
